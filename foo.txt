@@ -1,0 +1,200 @@
+Number: 2
+Factors: 2
+Number of factors: 994
+
+Number: 3
+Factors: 3
+Number of factors: 498
+
+Number: 5
+Factors: 5
+Number of factors: 249
+
+Number: 7
+Factors: 7
+Number of factors: 164
+
+Number: 11
+Factors: 11
+Number of factors: 98
+
+Number: 13
+Factors: 13
+Number of factors: 81
+
+Number: 17
+Factors: 17
+Number of factors: 61
+
+Number: 19
+Factors: 19
+Number of factors: 54
+
+Number: 23
+Factors: 23
+Number of factors: 44
+
+Number: 29
+Factors: 29
+Number of factors: 35
+
+Number: 31
+Factors: 31
+Number of factors: 33
+
+Number: 37
+Factors: 37
+Number of factors: 27
+
+Number: 41
+Factors: 41
+Number of factors: 24
+
+Number: 43
+Factors: 43
+Number of factors: 23
+
+Number: 47
+Factors: 47
+Number of factors: 21
+
+Number: 53
+Factors: 53
+Number of factors: 18
+
+Number: 59
+Factors: 59
+Number of factors: 16
+
+Number: 61
+Factors: 61
+Number of factors: 16
+
+Number: 67
+Factors: 67
+Number of factors: 14
+
+Number: 71
+Factors: 71
+Number of factors: 14
+
+Number: 73
+Factors: 73
+Number of factors: 13
+
+Number: 79
+Factors: 79
+Number of factors: 12
+
+Number: 83
+Factors: 83
+Number of factors: 12
+
+Number: 89
+Factors: 89
+Number of factors: 11
+
+Number: 97
+Factors: 97
+Number of factors: 10
+
+Number: 101
+Factors: 101
+Number of factors: 9
+
+Number: 103
+Factors: 103
+Number of factors: 9
+
+Number: 107
+Factors: 107
+Number of factors: 9
+
+Number: 109
+Factors: 109
+Number of factors: 9
+
+Number: 113
+Factors: 113
+Number of factors: 8
+
+Number: 127
+Factors: 127
+Number of factors: 7
+
+Number: 131
+Factors: 131
+Number of factors: 7
+
+Number: 137
+Factors: 137
+Number of factors: 7
+
+Number: 139
+Factors: 139
+Number of factors: 7
+
+Number: 149
+Factors: 149
+Number of factors: 6
+
+Number: 151
+Factors: 151
+Number of factors: 6
+
+Number: 157
+Factors: 157
+Number of factors: 6
+
+Number: 163
+Factors: 163
+Number of factors: 6
+
+Number: 167
+Factors: 167
+Number of factors: 5
+
+Number: 173
+Factors: 173
+Number of factors: 5
+
+Number: 179
+Factors: 179
+Number of factors: 5
+
+Number: 181
+Factors: 181
+Number of factors: 5
+
+Number: 191
+Factors: 191
+Number of factors: 5
+
+Number: 193
+Factors: 193
+Number of factors: 5
+
+Number: 197
+Factors: 197
+Number of factors: 5
+
+Number: 199
+Factors: 199
+Number of factors: 5
+
+Number: 211
+Factors: 211
+Number of factors: 4
+
+Number: 223
+Factors: 223
+Number of factors: 4
+
+Number: 227
+Factors: 227
+Number of factors: 4
+
+Number: 229
+Factors: 229
+Number of factors: 4
+
